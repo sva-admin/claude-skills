@@ -1,4 +1,4 @@
-<p align="center"><img src="https://loop.sv-academy.org/apple-icon.png" width="96" alt="SV Academy" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sva-admin/claude-skills/main/assets/sv-academy-512.png" width="96" alt="SV Academy" /></p>
 
 <h1 align="center">SV Academy · Claude Skills</h1>
 
