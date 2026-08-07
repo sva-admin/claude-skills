@@ -25,7 +25,8 @@ What the internet said about your competitor this month
 - Lesson (free): https://loop.sv-academy.org/articles/research-last-30-days
 - Original: https://github.com/mvanhorn/last30days-skill
 - License: MIT
-- Status: SV Academy modified version: coming this week. Until then, use the original.
+- SV Academy repo: https://github.com/sva-admin/last30days
+- Status: Published as a standalone repo.
 
 ### conversation-prep
 
@@ -41,7 +42,8 @@ A researched brief while you make coffee
 
 - Lesson (free): https://loop.sv-academy.org/articles/deep-research-brief
 - License: SV Academy original
-- Status: SV Academy original. Public repo coming this week.
+- SV Academy repo: https://github.com/sva-admin/deep-research
+- Status: Published as a standalone repo.
 
 ### carousel
 
@@ -49,7 +51,8 @@ One idea becomes a 10-slide carousel
 
 - Lesson (free): https://loop.sv-academy.org/articles/idea-to-carousel
 - License: SV Academy original
-- Status: SV Academy original. Public repo coming this week.
+- SV Academy repo: https://github.com/sva-admin/carousel
+- Status: Published as a standalone repo.
 
 ### short-form
 
@@ -57,7 +60,8 @@ A Reel script that doesn't sound like AI
 
 - Lesson (free): https://loop.sv-academy.org/articles/reel-script-that-sounds-human
 - License: SV Academy original
-- Status: SV Academy original. Public repo coming this week.
+- SV Academy repo: https://github.com/sva-admin/short-form
+- Status: Published as a standalone repo.
 
 ### contextual-translator
 
@@ -116,7 +120,8 @@ Turn anything into a knowledge map
 - Lesson (free): https://loop.sv-academy.org/articles/map-your-knowledge
 - Original: https://github.com/safishamsi/graphify
 - License: MIT
-- Status: SV Academy modified version: coming this week. Until then, use the original.
+- SV Academy repo: https://github.com/sva-admin/graphify
+- Status: Published as a standalone repo.
 
 ### systematic-debugging
 
@@ -142,7 +147,8 @@ Plan it properly before a single line gets written
 
 - Lesson (free): https://loop.sv-academy.org/articles/plan-before-you-build
 - License: SV Academy original
-- Status: SV Academy original. Public repo coming this week.
+- SV Academy repo: https://github.com/sva-admin/spec-driven-dev
+- Status: Published as a standalone repo.
 
 ### receipt-scanner
 
@@ -175,7 +181,8 @@ Teach Claude your job once. It never forgets.
 - Lesson (free): https://loop.sv-academy.org/articles/teach-claude-your-job
 - Original: https://github.com/anthropics/claude-plugins-official
 - License: Apache-2.0
-- Status: SV Academy modified version: coming this week. Until then, use the original.
+- SV Academy repo: https://github.com/sva-admin/skill-creator
+- Status: Published as a standalone repo.
 
 ### what-to-use
 
@@ -183,7 +190,8 @@ You already own the tool. You just don't know which.
 
 - Lesson (free): https://loop.sv-academy.org/articles/find-the-right-tool
 - License: SV Academy original
-- Status: SV Academy original. Public repo coming this week.
+- SV Academy repo: https://github.com/sva-admin/what-to-use
+- Status: Published as a standalone repo.
 
 ### schedule
 
