@@ -207,3 +207,103 @@ Claude wakes up at 7am and briefs you
 Every skill above has a step-by-step lesson in English and Thai at [loop.sv-academy.org/tutorials](https://loop.sv-academy.org/tutorials). Your first lesson needs no account.
 
 Built by [Silicon Valley Academy](https://sv-academy.org).
+## More original SV Academy skills
+
+Published 2026-08-07 after a full review of our collection: 130 skills judged, these cleared the bar (original SV Academy work, useful to strangers, sanitized). 112 third-party skills we teach or use stay credited to their original authors instead of being republished.
+
+### seo-aeo
+
+A 9-phase, approval-gated SEO and AEO build for Next.js static sites.
+
+- SV Academy repo: https://github.com/sva-admin/seo-aeo
+- License: MIT
+- Status: Published as a standalone repo.
+
+### launch-runbook
+
+Plan and execute a client website go-live: DNS cutover, SSL, redirects, rollback.
+
+- SV Academy repo: https://github.com/sva-admin/launch-runbook
+- License: MIT
+- Status: Published as a standalone repo.
+
+### sop-builder
+
+Turn something you just finished into a documented, repeatable procedure.
+
+- SV Academy repo: https://github.com/sva-admin/sop-builder
+- License: MIT
+- Status: Published as a standalone repo.
+
+### model-mix
+
+Two-direction model tiering: escalate hard calls up, fan cheap work down.
+
+- SV Academy repo: https://github.com/sva-admin/model-mix
+- License: MIT
+- Status: Published as a standalone repo.
+
+### quick-research
+
+Fast single-pass research producing a structured TL;DR brief.
+
+- SV Academy repo: https://github.com/sva-admin/quick-research
+- License: MIT
+- Status: Published as a standalone repo.
+
+### research-scout
+
+Hunt for new information that challenges what you already know: a delta report.
+
+- SV Academy repo: https://github.com/sva-admin/research-scout
+- License: MIT
+- Status: Published as a standalone repo.
+
+### outlines
+
+Structured outlines for long-form content with hook, promise, sections, and CTA.
+
+- SV Academy repo: https://github.com/sva-admin/outlines
+- License: MIT
+- Status: Published as a standalone repo.
+
+### yt-hooks
+
+Generate 8 to 12 YouTube hook variants for the first seconds of a video.
+
+- SV Academy repo: https://github.com/sva-admin/yt-hooks
+- License: MIT
+- Status: Published as a standalone repo.
+
+### yt-pipeline
+
+Fetch a YouTube transcript, summarize it, extract insights, save a distilled note.
+
+- SV Academy repo: https://github.com/sva-admin/yt-pipeline
+- License: MIT
+- Status: Published as a standalone repo.
+
+### content-cascade
+
+Turn one source into a coherent multi-platform content set with a single thesis.
+
+- SV Academy repo: https://github.com/sva-admin/content-cascade
+- License: MIT
+- Status: Published as a standalone repo.
+
+### ai-app-scaffold
+
+Scaffold an AI-powered app the SV Academy way.
+
+- SV Academy repo: https://github.com/sva-admin/ai-app-scaffold
+- License: MIT
+- Status: Published as a standalone repo.
+
+### notebooklm-automation
+
+Drive NotebookLM end to end: sources in, overviews and studio assets out.
+
+- SV Academy repo: https://github.com/sva-admin/notebooklm-automation
+- License: MIT
+- Status: Published as a standalone repo.
+
