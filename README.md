@@ -53,6 +53,8 @@ Published after a full review of our collection: 130 skills judged, these cleare
 | content-cascade | One source becomes a multi platform content set with a single thesis | [sva-admin/content-cascade](https://github.com/sva-admin/content-cascade) |
 | ai-app-scaffold | Scaffold an AI powered app the SV Academy way | [sva-admin/ai-app-scaffold](https://github.com/sva-admin/ai-app-scaffold) |
 | notebooklm-automation | Drive NotebookLM end to end: sources in, overviews and studio assets out | [sva-admin/notebooklm-automation](https://github.com/sva-admin/notebooklm-automation) |
+| prom-design | The house design style as a skill: two registers, tinted grounds, proof over promise | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) |
+| prom-design-pro | The loop behind that style: design contract, runnable gates, and a six agent audit harness | [sva-admin/prom-design-pro](https://github.com/sva-admin/prom-design-pro) |
 
 ## Skill index
 
@@ -159,6 +161,12 @@ Now at [sva-admin/ai-app-scaffold](https://github.com/sva-admin/ai-app-scaffold)
 
 ### notebooklm-automation
 Now at [sva-admin/notebooklm-automation](https://github.com/sva-admin/notebooklm-automation).
+
+### prom-design
+Now at [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design).
+
+### prom-design-pro
+Now at [sva-admin/prom-design-pro](https://github.com/sva-admin/prom-design-pro).
 
 ## Learn them free
 
