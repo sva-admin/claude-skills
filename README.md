@@ -13,6 +13,8 @@ Every lesson on Loop teaches one real Claude skill. This repo is the map: what e
 | Skill | What you get | Lesson | Repo | Credit |
 |---|---|---|---|---|
 | agent-team | A subagent team with models pinned, so nothing quietly runs on the expensive one | [Lesson](https://loop.sv-academy.org/articles/free-agent-team-skill) | [sva-admin/agent-team](https://github.com/sva-admin/agent-team) | SV Academy original |
+| prom-design | The house design style as a skill: two registers, tinted grounds, proof over promise | [Lesson](https://loop.sv-academy.org/articles/prom-design) | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | SV Academy original |
+| prom-design-pro | The loop behind that style: design contract, runnable gates, and a six agent audit harness | [Lesson](https://loop.sv-academy.org/articles/prom-design-pro) | [sva-admin/prom-design-pro](https://github.com/sva-admin/prom-design-pro) | SV Academy original |
 | last30days | What the internet said about your competitor this month | [Lesson](https://loop.sv-academy.org/articles/research-last-30-days) | [sva-admin/last30days](https://github.com/sva-admin/last30days) | Adapted from [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill), MIT |
 | conversation-prep | Walking into a big meeting? Get briefed first. | [Lesson](https://loop.sv-academy.org/articles/brief-before-your-meeting) | [sva-admin/conversation-prep](https://github.com/sva-admin/conversation-prep) | Clean room. Original circulates unattributed. |
 | deep-research | A researched brief while you make coffee | [Lesson](https://loop.sv-academy.org/articles/deep-research-brief) | [sva-admin/deep-research](https://github.com/sva-admin/deep-research) | SV Academy original |
@@ -53,8 +55,6 @@ Published after a full review of our collection: 130 skills judged, these cleare
 | content-cascade | One source becomes a multi platform content set with a single thesis | [sva-admin/content-cascade](https://github.com/sva-admin/content-cascade) |
 | ai-app-scaffold | Scaffold an AI powered app the SV Academy way | [sva-admin/ai-app-scaffold](https://github.com/sva-admin/ai-app-scaffold) |
 | notebooklm-automation | Drive NotebookLM end to end: sources in, overviews and studio assets out | [sva-admin/notebooklm-automation](https://github.com/sva-admin/notebooklm-automation) |
-| prom-design | The house design style as a skill: two registers, tinted grounds, proof over promise | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) |
-| prom-design-pro | The loop behind that style: design contract, runnable gates, and a six agent audit harness | [sva-admin/prom-design-pro](https://github.com/sva-admin/prom-design-pro) |
 
 ## Skill index
 
