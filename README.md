@@ -24,7 +24,7 @@ Every lesson on Loop teaches one real Claude skill. This repo is the map: what e
 | high-end-visual-design | A website that looks expensive, not generic | [Lesson](https://loop.sv-academy.org/articles/make-it-look-expensive) | [sva-admin/high-end-visual-design](https://github.com/sva-admin/high-end-visual-design) | Idea credit: [taste-skill](https://github.com/Leonxlnx/taste-skill) by Leonxlnx. Text written fresh. |
 | animated-website | A landing page with real scroll animation | [Lesson](https://loop.sv-academy.org/articles/landing-page-with-motion) | [sva-admin/animated-website](https://github.com/sva-admin/animated-website) | Clean room. Original circulates unattributed. |
 | impeccable | Your UI, reviewed and polished like an agency did it | [Lesson](https://loop.sv-academy.org/articles/agency-grade-ui-review) | [sva-admin/impeccable](https://github.com/sva-admin/impeccable) | Adapted from [Impeccable](https://github.com/pbakaus/impeccable) by Paul Bakaus, Apache 2.0 |
-| hyperframes | This video was a text file. | [Lesson](https://loop.sv-academy.org/articles/video-from-a-text-file) | [sva-admin/hyperframes](https://github.com/sva-admin/hyperframes) | Our usage skill for [HyperFrames](https://github.com/heygen-com/hyperframes) by HeyGen. Engine credit: HeyGen. |
+| sv-motion | This video was a text file. | [Lesson](https://loop.sv-academy.org/articles/video-from-a-text-file) | [sva-admin/sv-motion](https://github.com/sva-admin/sv-motion) | SV Motion, our skill for [HyperFrames](https://github.com/heygen-com/hyperframes) by HeyGen: a launch reel from your live site, one file in every size, personalised batches. Engine credit: HeyGen. |
 | explainer-graphic | One diagram that explains the whole thing | [Lesson](https://loop.sv-academy.org/articles/one-diagram-explains-it) | [sva-admin/explainer-graphic](https://github.com/sva-admin/explainer-graphic) | Clean room. Original circulates unattributed. |
 | graphify | Turn anything into a knowledge map | [Lesson](https://loop.sv-academy.org/articles/map-your-knowledge) | [sva-admin/graphify](https://github.com/sva-admin/graphify) | Adapted from [safishamsi/graphify](https://github.com/safishamsi/graphify), MIT |
 | systematic-debugging | It finds the bug instead of guessing | [Lesson](https://loop.sv-academy.org/articles/find-the-bug-not-the-guess) | [sva-admin/systematic-debugging](https://github.com/sva-admin/systematic-debugging) | Clean room. Job inspired by [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills). |
@@ -91,7 +91,7 @@ Now at [sva-admin/animated-website](https://github.com/sva-admin/animated-websit
 Now at [sva-admin/impeccable](https://github.com/sva-admin/impeccable).
 
 ### hyperframes
-Now at [sva-admin/hyperframes](https://github.com/sva-admin/hyperframes).
+Now SV Motion, at [sva-admin/sv-motion](https://github.com/sva-admin/sv-motion).
 
 ### explainer-graphic
 Now at [sva-admin/explainer-graphic](https://github.com/sva-admin/explainer-graphic).
