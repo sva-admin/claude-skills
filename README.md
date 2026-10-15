@@ -173,3 +173,5 @@ Now at [sva-admin/prom-design-pro](https://github.com/sva-admin/prom-design-pro)
 Every skill above has a step by step lesson in English and Thai at [loop.sv-academy.org/tutorials](https://loop.sv-academy.org/tutorials). Your first lesson needs no account.
 
 Built by [Silicon Valley Academy](https://sv-academy.org).
+
+SV Academy is the education brand of [Silicon Valley Innovation](https://svinnovation.com), a Bangkok software and AI company that can build this for your business.
