@@ -43,7 +43,6 @@ Published after a full review of our collection: 130 skills judged, these cleare
 
 | Skill | What you get | Repo |
 |---|---|---|
-| sv-reels | Sourced news videos with local English narration, readable captions and licensed b-roll. Includes a runnable starter and fictional example. | [sva-admin/sv-reels](https://github.com/sva-admin/sv-reels) |
 | seo-aeo | A 9 phase, approval gated SEO and AEO build for Next.js static sites | [sva-admin/seo-aeo](https://github.com/sva-admin/seo-aeo) |
 | launch-runbook | Take a client site live: DNS cutover, SSL, redirects, rollback | [sva-admin/launch-runbook](https://github.com/sva-admin/launch-runbook) |
 | sop-builder | Turn what you just finished into a documented, repeatable procedure | [sva-admin/sop-builder](https://github.com/sva-admin/sop-builder) |
